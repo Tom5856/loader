@@ -1,5 +1,5 @@
 if game.PlaceId == 155615604 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Tom5856/scripts/main/the%20wildwest"))()
-elseif PlaceId == 4588604953
+elseif game.PlaceId == 4588604953
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Tom5856/scripts/main/criminality"))()
 end
