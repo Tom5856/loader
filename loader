@@ -1,7 +1,7 @@
 repeat wait() until game:IsLoaded()
 local PlaceId = game.PlaceId
 if game.PlaceId == 155615604 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tom5856/scripts/main/the%20wildwest"))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Tom5856/scripts/main/the%20wildwest"),true))()
 elseif game.PlaceId == 4588604953
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tom5856/scripts/main/criminality"))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Tom5856/scripts/main/criminality"),true))()
 end
